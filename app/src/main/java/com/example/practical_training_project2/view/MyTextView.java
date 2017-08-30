@@ -14,6 +14,8 @@ import com.example.practical_training_project2.R;
  * Created by 范晋炜 on 2017/8/30 0030.
  * com.example.practical_training_project2.view
  * MyTextView
+ *
+ * 自定义View
  */
 
 

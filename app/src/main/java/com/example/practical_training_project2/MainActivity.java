@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         //显示当前页面布局
         setContentView(R.layout.activity_main);
+        //获取资源ID
     }
 }

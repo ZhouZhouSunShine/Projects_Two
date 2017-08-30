@@ -15,8 +15,14 @@
         app:textColor="#000000"
         app:textSize="16dp"
         >
-
     </com.example.practical_training_project2.view.MyTextView>
+
+    <com.example.practical_training_project2.view.MyCustomView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        >
+    </com.example.practical_training_project2.view.MyCustomView>
 
 
 </RelativeLayout>
